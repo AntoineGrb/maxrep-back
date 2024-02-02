@@ -14,6 +14,7 @@ const app = express();
 const allowedOrigins = [
     "http://localhost:5173",
     "https://projet-01-maxrep-front.vercel.app",
+    "https://maxrep.vercel.app"
 ];
 
 const corsOptions = {
